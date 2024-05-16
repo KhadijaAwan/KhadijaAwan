@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijaawan&label=Profile%20views&color=0e75b6&style=flat" alt="khadijaawan" /> </p>
 
-- 🔭 I’m working on [Proeducation Consulting](https://proeducationconsulting.com/)
-
 - 🌱 I’m learning **Mobile App Development using Nextjs**
 
 - 🔭 I’m currently working on **Video Conferencing application in Next Typescript**
