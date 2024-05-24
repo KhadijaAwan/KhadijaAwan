@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Mobile App Development using Nextjs**
 
-- 🔭 I’m currently working on **Video Conferencing application in Next Typescript**
+- 🔭 I’m currently working on **Cab Booking Application in NextJs**
 
 - 💬 Ask me about **NextJs, Typescript, API Routes Building**
 
