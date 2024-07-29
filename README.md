@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijaawan&label=Profile%20views&color=0e75b6&style=flat" alt="khadijaawan" /> </p>
 
-- 🌱 I’m learning **Mobile App Development using Nextjs**
+- 🌱 I’m learning **Full Stack Web Development in NextJs**
 
-- 🔭 I’m currently working on **Full Stack Web Development in NextJs**
+- 🔭 I’m currently working on **Docker - Postgresql - Prisma - NextAuth - ServerActions - Tailwindcss - Shadecn UI - Nextjs - ContextApi**
 
 - 💬 Ask me about **NextJs, Typescript, API Routes Building, Server Actions**
 
