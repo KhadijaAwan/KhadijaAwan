@@ -6,9 +6,9 @@
 
 - 🌱 I’m learning **Mobile App Development using Nextjs**
 
-- 🔭 I’m currently working on **Cab Booking Application in NextJs**
+- 🔭 I’m currently working on **Full Stack Web Development in NextJs**
 
-- 💬 Ask me about **NextJs, Typescript, API Routes Building**
+- 💬 Ask me about **NextJs, Typescript, API Routes Building, Server Actions**
 
 - 📫 How to reach me **khadijaawan287@gmail.com**
 
