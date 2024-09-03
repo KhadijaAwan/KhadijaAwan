@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khadijaawan287@gmail.com**
 
-<br/><h3 align="left">FullStack NextJs Projects</h3>
+<br/><h3 align="left">My Projects</h3>
 <ol style="list-style-position: inside; padding-left: 0;">
   <li><a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">Proeducation Consulting</a></li>
   <li><a href="https://jamsow.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Jamsow</a></li>
