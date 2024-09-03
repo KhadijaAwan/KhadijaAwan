@@ -13,16 +13,16 @@
 - 📫 How to reach me **khadijaawan287@gmail.com**
 
 <br/><h3 align="left">FullStack NextJs Projects</h3>
-<p align="left"> 
-  <a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Proeducation Consulting</a>
-  <a href="https://jamsow.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Jamsow</a>
-  <a href="https://bloria.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Bloria</a>
-  <a href="https://lookup-yours.vercel.app/login?redirect_url=https%3A%2F%2Flookup-yours.vercel.app%2F" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>LookUp</a>
-  <a href="https://todo-next-tasks.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>TaskManager</a>
-  <a href="https://modifiable.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Modifiable</a>
-  <a href="https://tasklist-web.netlify.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>TodoList with Mock Server</a>
-  <a href="https://kmailer.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>KMailer</a>
-</p>
+<ol style="list-style-position: inside; padding-left: 0;">
+  <li><a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">Proeducation Consulting</a></li>
+  <li><a href="https://jamsow.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Jamsow</a></li>
+  <li><a href="https://bloria.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Bloria</a></li>
+  <li><a href="https://lookup-yours.vercel.app/login?redirect_url=https%3A%2F%2Flookup-yours.vercel.app%2F" target="_blank" rel="noreferrer" style="text-decoration: none;">LookUp</a></li>
+  <li><a href="https://todo-next-tasks.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">TaskManager</a></li>
+  <li><a href="https://modifiable.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Modifiable</a></li>
+  <li><a href="https://tasklist-web.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">TodoList with Mock Server</a></li>
+  <li><a href="https://kmailer.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">KMailer</a></li>
+</ol>
 
 <br/><h3 align="left">Connect with me:</h3>
 <p align="left">
