@@ -12,6 +12,18 @@
 
 - 📫 How to reach me **khadijaawan287@gmail.com**
 
+<br/><h3 align="left">FullStack NextJs Projects</h3>
+<p align="left"> 
+  <a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Proeducation Consulting</a>
+  <a href="https://jamsow.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Jamsow</a>
+  <a href="https://bloria.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Bloria</a>
+  <a href="https://lookup-yours.vercel.app/login?redirect_url=https%3A%2F%2Flookup-yours.vercel.app%2F" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>LookUp</a>
+  <a href="https://todo-next-tasks.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>TaskManager</a>
+  <a href="https://modifiable.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>Modifiable</a>
+  <a href="https://tasklist-web.netlify.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>TodoList with Mock Server</a>
+  <a href="https://kmailer.vercel.app/" target="_blank" rel="noreferrer" style={{marginRight: "10px"}}>KMailer</a>
+</p>
+
 <br/><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khadijaawan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khadijaawan/" height="30" width="40" /></a>
