@@ -14,7 +14,7 @@
 
 <br/><h3 align="left">FullStack NextJs Projects</h3>
 <ol style="list-style-position: inside; padding-left: 0;">
-  <li><a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><h2>Proeducation Consulting</h2></a></li>
+  <li><a href="https://proeducationconsulting.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">Proeducation Consulting</a></li>
   <li><a href="https://jamsow.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Jamsow</a></li>
   <li><a href="https://bloria.vercel.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">Bloria</a></li>
   <li><a href="https://lookup-yours.vercel.app/login?redirect_url=https%3A%2F%2Flookup-yours.vercel.app%2F" target="_blank" rel="noreferrer" style="text-decoration: none;">LookUp</a></li>
