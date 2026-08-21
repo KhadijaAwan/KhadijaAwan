@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khadija Awan</h1>
-<h3 align="center">A Full Stack NextJS Developer</h3><br/>
+<h3 align="center">Software Engineer (Fullstack Web & App)</h3><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadijaawan&label=Profile%20views&color=0e75b6&style=flat" alt="khadijaawan" /> </p>
 
